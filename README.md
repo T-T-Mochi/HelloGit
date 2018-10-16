@@ -21,4 +21,6 @@ This software is released under the MIT License, see LICENSE.
 作者を明示する。特に、他者が作成したコードを利用する場合は、そのコードのライセンスに従った上で、リポジトリのそれぞれのコードのオリジナルの作者が誰か分かるように明示する（私はそれが良いと思い自主的にしています）。
 
 # References
-参考にした情報源（サイト・論文）などの情報、リンク
+参考にした情報源（サイト・論文）などの情報
+https://qiita.com/nnahito/items/565f8755e70c51532459
+https://karaage.hatenadiary.jp/entry/2018/01/19/073000
