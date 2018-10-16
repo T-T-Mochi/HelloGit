@@ -21,7 +21,7 @@ This software is released under the MIT License, see LICENSE.
 作者を明示する。特に、他者が作成したコードを利用する場合は、そのコードのライセンスに従った上で、リポジトリのそれぞれのコードのオリジナルの作者が誰か分かるように明示する（私はそれが良いと思い自主的にしています）。
 
 # References
-参考にした情報源（サイト・論文）などの情報
+参考にした情報源（サイト・論文）などの情報  
 【GitHub超初心者入門】この前初めてGitHubを使い始めたエンジニア見習いが書くGitHubの使い方と実践～とりあえず一緒に動かしてみようぜ！～  
 https://qiita.com/nnahito/items/565f8755e70c51532459  
 READMEの良さそうな書き方・テンプレート【GitHub/Bitbucket】  
